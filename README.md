@@ -1,6 +1,6 @@
 # Maths
 
-**TODO: Add description**
+Set of Mathematical functions I use for school, 3D Raytracing and Deep learning. 
 
 ## Installation
 
